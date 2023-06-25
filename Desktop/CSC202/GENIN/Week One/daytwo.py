@@ -1,5 +1,3 @@
-print("Hello world")
-
 #writing my day two code below here
 num = input("Enter any two digit number:")
 first = int(num[0])

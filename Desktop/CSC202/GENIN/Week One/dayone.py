@@ -1,5 +1,3 @@
-print("Hello world!")
-
 #writing my day one code below here
 print("Day 1 - Python Print Function")
 print("The function is declared like this:")
